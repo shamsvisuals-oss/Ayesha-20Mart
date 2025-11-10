@@ -10,8 +10,8 @@ export default function PartFinder() {
         <p className="text-lg sm:text-xl text-gray-300 mb-8 font-montserrat">
           This page is coming soon. Continue building out this section!
         </p>
-        <Link 
-          to="/" 
+        <Link
+          to="/"
           className="inline-block bg-brand-red text-white font-poppins font-bold px-8 py-4 rounded-full hover:bg-red-800 transition-all duration-300 shadow-lg"
         >
           Back to Home
